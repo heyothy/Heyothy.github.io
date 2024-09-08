@@ -1,0 +1,36 @@
+main:
+  - title: "Industry Background"
+    url: /industry-background
+
+  - title: "Threat Modeling"
+    url: /threat-modeling
+
+  - title: "About Us"
+    url: /about-us
+
+docs:
+  - title: "Background"
+    children:
+      - title: "Industry Background"
+        url: /industry-background
+
+      - title: "Threat Trends"
+        url: /threat-trends
+
+critical-assets:
+  - title: "Critical Assets"
+    children:
+      - title: "Threat Modeling"
+        url: /threat-modeling
+
+      - title: "What are the values"
+        url: /what-are-the-values
+
+      - title: "What happens when it is breached"
+        url: /what-happens-when-it-is-breached
+
+      - title: "Who is using these assets"
+        url: /who-is-using-these-assets
+
+
+
