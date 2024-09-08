@@ -3,7 +3,9 @@ layout: single
 title: What happens when it is breached 
 permalink: /what-happens-when-it-is-breached/
 sidebar:
-  nav: "critical-assets"
+  nav:
+    - critical-assets
+    - diamond-models
 ---
 
 ![breach](/assets/Image-breach.png)

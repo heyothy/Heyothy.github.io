@@ -3,7 +3,9 @@ layout: single
 title: What are the values 
 permalink: /what-are-the-values/
 sidebar:
-  nav: "critical-assets"
+  nav:
+    - critical-assets
+    - diamond-models
 ---
 ![values](/assets/Image-assets.png)
 

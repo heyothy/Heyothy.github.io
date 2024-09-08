@@ -2,8 +2,11 @@
 layout: single
 title: Threat Modeling 
 permalink: /threat-modeling/
+toc: true
 sidebar:
-  nav: "critical-assets"
+  nav: 
+    - critical-assets
+    - diamond-models
 ---
 
 ### What are the assets

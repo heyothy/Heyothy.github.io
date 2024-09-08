@@ -32,5 +32,22 @@ critical-assets:
       - title: "Who is using these assets"
         url: /who-is-using-these-assets
 
+diamond-models:
+  - title: "Diamond Models"
+    children:
+      - title: "Customer Data"
+        url: /customer-data
+
+      - title: "Regulatory Compliance Data"
+        url: /regulatory-compliance-data
+
+      - title: "Trading Systems"
+        url: /trading-systems
+
+      - title: "Internal Network"
+        url: /internal-network
+
+      - title: "Financial Transactions"
+        url: /financial-transactions
 
 

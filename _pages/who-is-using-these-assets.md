@@ -3,7 +3,9 @@ layout: single
 title: Who is using these assets
 permalink: /who-is-using-these-assets/
 sidebar:
-  nav: "critical-assets"
+  nav:
+    - critical-assets
+    - diamond-models
 ---
 ![using](/assets/Image-using.png)
 - Employees in the course of their daily work.
