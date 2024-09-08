@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Threat Modeling 
+title: What are the assets 
 permalink: /threat-modeling/
 toc: true
-toc_label: "Threat Modeling"
+toc_label: "What are the assets"
 toc_icon: "code"
 sidebar:
   nav: 
@@ -11,8 +11,6 @@ sidebar:
     - diamond-models
     - intelligence-buy-in
 ---
-
-### What are the assets
 ![lock](/assets/Image-assets.png)
 
 The Financial Services industry relies on several critical assets, which are essential for its operation and security. These assets are often targeted in cyberattacks, and protecting them is a top priority. Each of these assets plays a pivotal role in the financial services industry, and disruptions or compromises to any of them can have widespread implications, from financial losses to regulatory penalties.

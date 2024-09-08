@@ -5,13 +5,13 @@ permalink: /about-us
 ---
 ## The Team
 ![the-team](/assets/Image-theteam.png)
-###### Abel Gabriel (Content)
+Abel Gabriel (Content)
 
-###### Dorothy Toruan (Content, Developer)
+Dorothy Toruan (Content, Developer)
 
-###### Jennifer Paolello (Content)
+Jennifer Paolello (Content)
 
-###### Laura Koshy (Content)
+Laura Koshy (Content)
 
 ## References
 

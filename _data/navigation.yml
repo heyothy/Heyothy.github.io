@@ -20,7 +20,7 @@ docs:
 critical-assets:
   - title: "Critical Assets"
     children:
-      - title: "Threat Modeling"
+      - title: "What are the assets"
         url: /threat-modeling
 
       - title: "What are the values"
@@ -29,7 +29,7 @@ critical-assets:
       - title: "What happens when it is breached"
         url: /what-happens-when-it-is-breached
 
-      - title: "Who is using these assets"
+      - title: "Who are using the assets"
         url: /who-is-using-these-assets
 
 diamond-models:

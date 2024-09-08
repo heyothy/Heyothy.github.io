@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Who is using these assets
+title: Who are using the assets
 permalink: /who-is-using-these-assets/
 sidebar:
   nav:
