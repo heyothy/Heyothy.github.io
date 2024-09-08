@@ -3,6 +3,8 @@ layout: single
 title: Threat Modeling 
 permalink: /threat-modeling/
 toc: true
+toc_label: "Threat Modeling"
+toc_icon: "code"
 sidebar:
   nav: 
     - critical-assets
