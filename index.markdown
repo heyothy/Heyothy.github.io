@@ -12,13 +12,19 @@ intro:
 feature_row:
   - image_path: assets/Image-lock.png
     title: "Critical Asset Identification"
-    excerpt: "Following the identification of key threat trends, students are required to summarize the key assets their industry/organization should protect and why."
+    excerpt: "The Financial Services industry relies on several critical assets, which are essential for its operation and security. These assets are often targeted in cyberattacks, and protecting them is a top priority."
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/Image-microchip.png
     title: "Diamond Models"
-    excerpt: "A complete diamond model is one which has the adversary node filled out, capability node filled out, infrastructure, and victim filled out. Diamond model design should be guided by the discovered threat trends."
+    excerpt: "The Diamond Model is a cybersecurity threat analysis framework used to identify and assess threats in a structured way, specifically focusing on four key elements: adversary, capability, infrastructure, and victim."
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/Image-matrix.png
     title: "Intelligence Buy-in"
-    excerpt: "As discussed in class, cybersecurity is an investment in which many executives do not see a direct return on investment. In this section, students are required to provide a convincing case as to why the development of an AI4Cyber platform is in the interest to them."
+    excerpt: "Intelligence Buy-In is crucial in cybersecurity, particularly when implementing threat intelligence strategies, because it ensures that all stakeholders—executives, security teams, and employees—are aligned in understanding the value of using intelligence to protect the organization."
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
