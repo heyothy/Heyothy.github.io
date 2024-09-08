@@ -16,23 +16,28 @@ Intelligence Buy-In is crucial in cybersecurity, particularly when implementing 
 
 ### Current threat landscape
 - There is a constant, and increasing, number of attacks occurring, and they will continue to increase. Attacks include:
-    -- Phishing (74% of account takeover attacks start with this)
-    -- Ransomware (increased 74% in 2023)
-    -- Denial of Service Attacks/Distributed Denial of Service Attacks
-- Threat actors can be external or internal, though they are largely external with only 34% being internal
+    - Phishing (74% of account takeover attacks start with this) (3)
+    - Ransomware (increased 74% in 2023) (3)
+    - Denial of Service Attacks/Distributed Denial of Service Attacks
+- Threat actors can be external or internal, though they are largely external with only 34% being internal (2)
 - The use of AI will create greater challenges for cybersecurity
 - A hacker gained access to over 100 million customer records, including credit card applications, Social Security numbers, and bank account details. (Capital One Data Breach (2019))
 
 ### Frequency of security breaches
-- In 2023, the number of data compromises in the financial services industry in the United States reached 744, up from 138 such incidents in 2020.
-- The number of cyberattacks on European financial services has more than doubled from 2022 to 2023.
-- The financial services sector was the second-most targeted industry by cyber security incidents resulting in data compromise.
-- On average, Microsoft mitigates 1,700 DDoS attacks daily.
+- In 2023, the number of data compromises in the financial services industry in the United States reached 744, up from 138 such incidents in 2020. (1)
+- The number of cyberattacks on European financial services has more than doubled from 2022 to 2023 (2)
+- The financial services sector was the-second-most targeted industry by cyber security incidents resulting in data compromise.
+- On average, Microsoft mitigates 1,700 DDoS attacks daily (3)
 
 ### Effect on strategy
 - Financial institutions need to invest more resources into cybersecurity and invest in sophisticated solutions, especially using AI
-- Software needs to be kept up to date, ensuring the most resent patches are installed. This affects how workflow is structured as you need to plan appropriate timing for updates
-- Cybersecurity staffing needs to be increased, as many organizations still lack the needed talent
+- Software needs to be kept up to date, ensuring the most resent patches are installed (4). This affects how workflow is structured as you need to plan appropriate timing for updates
+- Cybersecurity staffing needs to be increased, as many organizations still lack the needed talent (5)
+
+### Cost of data breaches
+- Cost of data breaches according to IBM's 2023 Cost of a Data Breach report: $5.9 million per incident (average). 
+- Cost per record ranges from $210 to over $500 per record
+- Where does the cost come from? Detection and escalation, notification costs, post-breach costs, lost business, regulatory fines
 
 ### How intelligence based security can help
 - Proactive threat detection (collect and analyze data from various sources to identify emerging threats before they impact your system)
