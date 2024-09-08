@@ -43,7 +43,6 @@ include: ["_pages"]
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-search: true
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
