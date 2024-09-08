@@ -42,5 +42,5 @@ Nation-state actors like APT28 (Fancy Bear) and APT31 (Zirconium) target financi
 Organized criminal groups like FIN7, Carbanak, and Cobalt Group specialize in financial cybercrime, targeting banks, payment processors, and individuals. Their methods include ransomware, phishing attacks, and malware designed to steal financial data.
 
 ### Internet of things (IoT) security
-![cybercrime](/assets/Image-cybercrime.png)
+![cybercrime](/assets/Image-iot.png)
 The increasing adoption of IoT devices in financial environments like ATMs and point-of-sale terminals opens up new attack surfaces. Attackers can exploit vulnerabilities in IoT devices to steal data, disrupt services, or even gain physical access.
