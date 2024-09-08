@@ -50,4 +50,6 @@ diamond-models:
       - title: "Financial Transactions"
         url: /financial-transactions
 
-
+intelligence-buy-in:
+  - title: "Intelligence buy-in"
+    url: /intelligence-buy-in

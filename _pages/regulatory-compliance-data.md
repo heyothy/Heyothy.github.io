@@ -6,6 +6,7 @@ sidebar:
   nav:
     - critical-assets
     - diamond-models
+    - intelligence-buy-in
 ---
 Applying the Diamond Model to Regulatory Compliance Data in AI for cybersecurity focuses on identifying and mitigating cyber threats that target the systems and data essential for regulatory adherence. 
 

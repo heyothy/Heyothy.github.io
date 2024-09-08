@@ -7,6 +7,7 @@ sidebar:
   nav: 
     - critical-assets
     - diamond-models
+    - intelligence-buy-in
 ---
 
 ### What are the assets

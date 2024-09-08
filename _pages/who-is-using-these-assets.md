@@ -6,6 +6,7 @@ sidebar:
   nav:
     - critical-assets
     - diamond-models
+    - intelligence-buy-in
 ---
 ![using](/assets/Image-using.png)
 - Employees in the course of their daily work.

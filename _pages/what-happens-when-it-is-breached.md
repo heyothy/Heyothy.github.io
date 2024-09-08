@@ -6,6 +6,7 @@ sidebar:
   nav:
     - critical-assets
     - diamond-models
+    - intelligence-buy-in
 ---
 
 ![breach](/assets/Image-breach.png)

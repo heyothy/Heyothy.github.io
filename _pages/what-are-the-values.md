@@ -2,10 +2,14 @@
 layout: single
 title: What are the values 
 permalink: /what-are-the-values/
+toc: true
+toc_label: "Threat Modeling"
+toc_icon: "globe"
 sidebar:
   nav:
     - critical-assets
     - diamond-models
+    - intelligence-buy-in
 ---
 ![values](/assets/Image-assets.png)
 

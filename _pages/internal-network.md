@@ -6,6 +6,7 @@ sidebar:
   nav:
     - critical-assets
     - diamond-models
+    - intelligence-buy-in
 ---
 Applying the Diamond Model to Internal Networks involves identifying adversaries, understanding their capabilities, monitoring infrastructure, and protecting victims within the network. The Diamond Model allows for real-time monitoring and quick responses to potential attacks, ensuring that internal networks remain resilient against both internal and external threats.
 
