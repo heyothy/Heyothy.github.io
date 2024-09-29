@@ -6,8 +6,8 @@ permalink: /about-us
 ![the-team](/assets/Image-theteam.png)
 ### Team Roles
 Jennifer Paolello:
-Financial Transactions Diamond models
-Critical Assets and Intelligence Buy-In content
+- Financial Transactions Diamond models
+- Critical Assets and Intelligence Buy-In content
 
 Dorothy Toruan:
 - Internal Networks Diamond models
