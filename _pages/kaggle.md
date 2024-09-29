@@ -13,6 +13,8 @@ sidebar:
 ---
 **The data that we chose to use for this task is a large file with well over a million tuples of data. It wasn't specified; however, we believe it is from some sort of financial institution, like a bank. There are two columns: one for "flagged fraud" and one for "is fraud", which likely pertain to financial transactions, such as credit card purchases. These columns are critical for analyzing account balance changes and could be instrumental in building algorithms aimed at flagging and preventing fraudulent activities. Utilizing such data can significantly reduce expenses associated with fraud for our organization.**
 
+[https://www.kaggle.com/](https://www.kaggle.com/)
+
 ### Value as a Data Source
 Kaggle datasets are valuable resources for competitors and learners, providing them with a way to work through problems or use them as a practice simulation. This also includes access to diverse datasets with the ability to benchmark data against existing Kaggle competitions. This helps evaluate a company's existing data and fraud risks, thereby helping companies leverage this data to develop or refine their own fraud prevention. Using algorithmic training for back-testing trading models some Kaggle datasets include stock prices, trading volumes, and other financial metrics. Though the gathering and evaluation of this data a more comprehensive plan for protection can be developed and implemented.
 

@@ -76,7 +76,7 @@ shodan:
 kaggle:
   - title: Kaggle
     children:
-      - title: "About kaggle"
+      - title: "About Kaggle"
         url: /kaggle
       - title: "Data Collected"
         url: /kaggle-data

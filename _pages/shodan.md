@@ -13,6 +13,8 @@ sidebar:
 ---
 **Shodan data helps organizations understand the security posture of their internet-facing devices. By identifying exposed devices and services, financial institutions can prioritize their patching and security efforts based on the severity of the identified vulnerabilities. This proactive approach not only helps in compliance but also strengthens the overall security architecture against cyber threats.**
 
+[https://www.shodan.io/](https://www.shodan.io/)
+
 ### Value as a Data Source
 Shodan is essential for identifying publicly exposed devices in the financial sector, such as ATMs, online banking servers, and payment processing systems. By detecting vulnerabilities, financial institutions can prevent unauthorized access, DDoS attacks, and data breaches, safeguarding sensitive customer information and maintaining operational integrity.
 
