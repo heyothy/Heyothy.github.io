@@ -3,15 +3,25 @@ layout: single
 title: About Us
 permalink: /about-us
 ---
-## The Team
 ![the-team](/assets/Image-theteam.png)
-Abel Gabriel (Content)
+### Team Roles
+Jennifer Paolello:
+Financial Transactions Diamond models
+Critical Assets and Intelligence Buy-In content
 
-Dorothy Toruan (Content, Developer)
+Dorothy Toruan:
+- Internal Networks Diamond models
+- Web Developer
 
-Jennifer Paolello (Content)
+Abel Gabriel:
+- Customer Data Diamond models 
+- Regulatory Compliance Data Diamond models
+- Relevant threat trends slides
 
-Laura Koshy (Content)
+Laura Koshy:
+- Slide content creation, management and final editing
+- Trading Systems Diamond models
+- Contributed to critical assets slides and Intelligence buy-in
 
 ## References
 
