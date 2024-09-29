@@ -6,10 +6,10 @@ toc: true
 toc_label: "Shodan"
 toc_icon: "code"
 sidebar:
-  nav: 
+  nav:
     - phishtank
-    - shodan
     - kaggle
+    - shodan
 ---
 **Shodan data helps organizations understand the security posture of their internet-facing devices. By identifying exposed devices and services, financial institutions can prioritize their patching and security efforts based on the severity of the identified vulnerabilities. This proactive approach not only helps in compliance but also strengthens the overall security architecture against cyber threats.**
 

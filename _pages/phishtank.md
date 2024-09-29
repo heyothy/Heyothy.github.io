@@ -6,10 +6,10 @@ toc: true
 toc_label: "Phishtank"
 toc_icon: "code"
 sidebar:
-  nav: 
+  nav:
     - phishtank
-    - shodan
     - kaggle
+    - shodan
 ---
 **PhishTank data allows organizations to recognize patterns in phishing attacks, which informs the development of targeted training programs for employees. This not only strengthens email security protocols but also enhances the overall security awareness within the organization.**
 

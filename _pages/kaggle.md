@@ -8,8 +8,8 @@ toc_icon: "code"
 sidebar:
   nav:
     - phishtank
-    - shodan
     - kaggle
+    - shodan
 ---
 **The data that we chose to use for this task is a large file with well over a million tuples of data. It wasn't specified; however, we believe it is from some sort of financial institution, like a bank. There are two columns: one for "flagged fraud" and one for "is fraud", which likely pertain to financial transactions, such as credit card purchases. These columns are critical for analyzing account balance changes and could be instrumental in building algorithms aimed at flagging and preventing fraudulent activities. Utilizing such data can significantly reduce expenses associated with fraud for our organization.**
 
