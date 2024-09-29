@@ -5,6 +5,9 @@ main:
   - title: "Threat Modeling"
     url: /threat-modeling
 
+  - title: "Data Sources"
+    url: /phishtank
+
   - title: "About Us"
     url: /about-us
 
@@ -53,3 +56,30 @@ diamond-models:
 intelligence-buy-in:
   - title: "Intelligence buy-in"
     url: /intelligence-buy-in
+
+phishtank:
+  - title: "Phishtank"
+    children:
+      - title: "About Phishtank"
+        url: /phishtank
+      - title: "Data Collected"
+        url: /phishtank-data
+
+shodan:
+  - title: Shodan
+    children:
+      - title: "About Shodan"
+        url: /shodan
+      - title: "Data Collected"
+        url: /shodan-data
+
+kaggle:
+  - title: Kaggle
+    children:
+      - title: "About kaggle"
+        url: /kaggle
+      - title: "Data Collected"
+        url: /kaggle-data
+
+
+
