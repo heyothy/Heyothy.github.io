@@ -13,6 +13,8 @@ sidebar:
 ---
 **The collected PhishTank dataset is 91,756 tuples of data covering 2011 to present day, with generated data increasing through the years. For example, there is only one line of results for 2011 and 2012 and three lines for 2016, however, in 2017 we start to see an increase in number of results. From 2022 forward there are significantly more results than those earlier years.**
 
+💻 Financial institutions utilise PhishTank data similarly to strengthen their defences against phishing attacks.
+
 ### Methods we used
 ![phishtank](/assets/Image_phishtank.png)
 
