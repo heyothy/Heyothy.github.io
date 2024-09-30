@@ -11,7 +11,9 @@ sidebar:
     - kaggle
     - shodan
 ---
-**Kaggle is used by many organizations and is a great source for data such as this. Predictive models require historical datasets like those found on Kaggle for training and fraud identification.**
+**The data that we chose to use for this task is a large file with well over a million tuples of data. It wasn't specified; however, we believe it is from some sort of financial institution, like a bank. There are two columns: one for "flagged fraud" and one for "is fraud", which likely pertain to financial transactions, such as credit card purchases.**\
+\
+These columns are critical for analysing account balance changes and could be instrumental in building algorithms aimed at flagging and preventing fraudulent activities. Utilising such data can significantly reduce expenses associated with fraud for our organisation, for example, hedge funds and financial firms use financial market data sets to develop algorithms for trading strategies and forecast market trends.
 
 ### Methods we used
 ![kaggle](/assets/Image_kaggle.png)

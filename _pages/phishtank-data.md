@@ -19,7 +19,7 @@ sidebar:
 ![phishtank](/assets/Image_phishtank.png)
 
 ### Data Preview
-Financial institutions utilise PhishTank data similarly to strengthen their defences against phishing attacks.
+To generate this data we first downloaded verified phishing URLs directly from PhishTank's public API in a .gz file, then processed that to convert the dataset into a CSV file to view in Excel.
 
 | #   | phish_id   | url                                                                                                                                                                                            | phish_detail_url                                           | submission_time           | verified   | verification_time         | online   | target                      |
 |-----|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------|------------|---------------------------|----------|-----------------------------|

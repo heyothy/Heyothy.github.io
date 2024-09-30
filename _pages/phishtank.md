@@ -13,7 +13,7 @@ sidebar:
 ---
 **PhishTank data allows organizations to recognize patterns in phishing attacks, which informs the development of targeted training programs for employees. This not only strengthens email security protocols but also enhances the overall security awareness within the organization.**
 
-[https://phishtank.org/](https://phishtank.org/)
+Link: [https://phishtank.org/](https://phishtank.org/)
 
 ### Value as a Data Source
 PhishTank provides a publicly accessible database of verified phishing URLs, which is critical for financial institutions aiming to identify and prevent phishing attacks that compromise sensitive customer information. This resource helps to bolster fraud prevention efforts and enhance overall security.
