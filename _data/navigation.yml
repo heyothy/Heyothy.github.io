@@ -8,6 +8,9 @@ main:
   - title: "Data Sources"
     url: /phishtank
 
+  - title: "Insights and Summary"
+    url: /insights
+
   - title: "About Us"
     url: /about-us
 
