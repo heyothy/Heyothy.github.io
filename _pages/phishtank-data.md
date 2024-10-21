@@ -19,7 +19,20 @@ sidebar:
 ![phishtank](/assets/Image_phishtank.png)
 
 ### Data Preview
+The collected PhishTank dataset is 91,756 tuples of data covering 2011 to present day, with generated data increasing through the years. For example, there is only one line of results for 2011 and 2012 and three lines for 2016, however, in 2017 we start to see an increase in number of results. From 2022 forward there are significantly more results than those earlier years.
+
+| Phishtank Dataset     |
+|-----------------------|
+| Number of tuples      | 91,756 |
+| Number of variables   | 8 |
+| Data types            | int64, object |
+| Timeframe Data Covers | 2011 to present | 
+
+![image-phishing-table](/assets/Image_phising_table.png)
+
 To generate this data we first downloaded verified phishing URLs directly from PhishTank's public API in a .gz file, then processed that to convert the dataset into a CSV file to view in Excel.
+
+![scrollable](/assets/Table-Scroll-Info.png)
 
 | #   | phish_id   | url                                                                                                                                                                                            | phish_detail_url                                           | submission_time           | verified   | verification_time         | online   | target                      |
 |-----|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------|------------|---------------------------|----------|-----------------------------|
@@ -439,3 +452,4 @@ To generate this data we first downloaded verified phishing URLs directly from P
 | 413 | 8784983    | https://meetaemaskloigein.webflow.io/                                                                                                                                                          | http://www.phishtank.com/phish_detail.php?phish_id=8784983 | 2024-09-28T12:44:42+00:00 | yes        | 2024-09-28T12:52:58+00:00 | yes      | Other                       |
 | 414 | 8784982    | https://meetamaskxloginh.webflow.io/                                                                                                                                                           | http://www.phishtank.com/phish_detail.php?phish_id=8784982 | 2024-09-28T12:44:29+00:00 | yes        | 2024-09-28T12:52:59+00:00 | yes      | Other                       |
 | 415 | 8784981    | https://meitamassk-login.webflow.io/                                                                                                                                                           | http://www.phishtank.com/phish_detail.php?phish_id=8784981 | 2024-09-28T12:44:14+00:00 | yes        | 2024-09-28T12:52:59+00:00 | yes      | Other                       |
+

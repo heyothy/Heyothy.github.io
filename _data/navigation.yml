@@ -64,6 +64,10 @@ phishtank:
         url: /phishtank
       - title: "Data Collected"
         url: /phishtank-data
+      - title: "Analytical Approach"
+        url: /phishtank-analytics
+      - title: "Visualization Display"
+        url: /phishtank-visual
 
 shodan:
   - title: Shodan
@@ -72,6 +76,10 @@ shodan:
         url: /shodan
       - title: "Data Collected"
         url: /shodan-data
+      - title: "Analytical Approach"
+        url: /shodan-analytics
+      - title: "Visualization Display"
+        url: /shodan-visual
 
 kaggle:
   - title: Kaggle
@@ -80,6 +88,10 @@ kaggle:
         url: /kaggle
       - title: "Data Collected"
         url: /kaggle-data
+      - title: "Analytical Approach"
+        url: /kaggle-analytics
+      - title: "Visualization Display"
+        url: /kaggle-visual
 
 
 
