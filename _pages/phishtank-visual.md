@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Visualization Display
-permalink: /phishtank-Visual/
+permalink: /phishtank-visual/
 toc: true
 toc_label: "Phishtank Visualization"
 toc_icon: "code"
