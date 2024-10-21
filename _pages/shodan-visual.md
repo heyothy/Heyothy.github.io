@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Visualization Display
-permalink: /shodan-Visual/
+permalink: /shodan-visual/
 toc: true
 toc_label: "Shodan Visualization"
 toc_icon: "code"

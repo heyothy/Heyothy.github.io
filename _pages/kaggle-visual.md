@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Visualization Display
-permalink: /kaggle-Visual/
+permalink: /kaggle-visual/
 toc: true
 toc_label: "Kaggle Visualization"
 toc_icon: "code"
