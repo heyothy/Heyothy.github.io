@@ -25,9 +25,7 @@ Additional details on Kaggle and why we chose this data:
 * Prevention strategies could be created, thereby reducing fraud.
 
 ### Methods we used
-
 ![data-collected](/assets/Data-collected-kaggle.png)
-
 ### Data preview
 This dataset is owned by Ashish Jayswal, who is a Data Science Trainer per his bio on Kaggle.
 
