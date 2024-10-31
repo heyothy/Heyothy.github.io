@@ -5,25 +5,32 @@ permalink: /about-us
 ---
 ![the-team](/assets/Image-theteam.png)
 ### Team Roles
+Team member contributions: Much of the initial content came from the ungraded first assignment (in particular, the Industry details, size, major players), which we all contributed to. Additional details are:
+    
 Jennifer Paolello:
 - Financial Transactions Diamond models
 - Critical Assets and Intelligence Buy-In content
 - Researched and outlined Kaggle datasets
+- Contributed to Key Insights and Intelligence and Operational Intelligence
 
 Dorothy Toruan:
 - Internal Networks Diamond models
-- Web Design & Development
+- Researched and outlined future AI4Cyber platform directions
+- Design & Development of AI4Cyber website
 
 Abel Gabriel:
 - Customer Data Diamond models 
 - Regulatory Compliance Data Diamond models
 - Relevant threat trends slides
+- Researched and outlined Phish Tank datasets
+- Contributed to Key Insights and Intelligence and Operational Intelligence
 
 Laura Koshy:
-- Slide content creation, management and final editing
+- Slide content creation, management, final layouts and editing
 - Trading Systems Diamond models
 - Contributed to critical assets slides and Intelligence buy-in
 - Researched and outlined Shodan 
+- Contributed to Key Insights and Intelligence and Operational Intelligence
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Data Collected
+title: Collection Strategies
 permalink: /kaggle-data/
 toc: true
 toc_label: "Kaggle"
@@ -11,11 +11,10 @@ sidebar:
     - kaggle
     - shodan
 ---
-**The data that we chose to use for this task is a large file with well over a million tuples of data. It wasn't specified; however, we believe it is from some sort of financial institution, like a bank. There are two columns: one for "flagged fraud" and one for "is fraud", which likely pertain to financial transactions, such as credit card purchases.**\
-\
+**The data that we chose to use for this task is a large file with well over a million tuples of data. It wasn't specified; however, we believe it is from some sort of financial institution, like a bank. There are two columns: one for "flagged fraud" and one for "is fraud", which likely pertain to financial transactions, such as credit card purchases.**
 These columns are critical for analysing account balance changes and could be instrumental in building algorithms aimed at flagging and preventing fraudulent activities. Utilising such data can significantly reduce expenses associated with fraud for our organisation, for example, hedge funds and financial firms use financial market data sets to develop algorithms for trading strategies and forecast market trends.
 
-### Data Collected
+### Collection Strategies
 Additional details on Kaggle and why we chose this data:
 * This is a large dataset with well over a million tuples of data.
 * The data source appears to be from a financial institution, though not specified.
@@ -32,16 +31,12 @@ Additional details on Kaggle and why we chose this data:
 ### Data preview
 This dataset is owned by Ashish Jayswal, who is a Data Science Trainer per his bio on Kaggle.
 
-| Kaggle Dataset                 |
-|--------------------------------|
-| Number of tuples               | 1,048,575 |
-| Number of variables            | 11 |
-| Data types                     | int64, object, float64 |
-| isFraud=1 (positive for fraud) | 1142 | 
+![kaggle-data-table](/assets/kaggle_data_table.png)
 
 * Link to Data tab: https://www.kaggle.com/code/ashishkumarjayswal/insaid-internship-task-with-froud-dataset
 * Link to strategy and code details: https://www.kaggle.com/code/ashishkumarjayswal/insaid-internship-task-with-froud-dataset
 
+![table-scroll](/assets/Table-Scroll-Info.png)
 
 | #   |   step | type     |           amount | nameOrig    |    oldbalanceOrg |   newbalanceOrig | nameDest    |   oldbalanceDest |   newbalanceDest |   isFraud |   isFlaggedFraud |
 |-----|--------|----------|------------------|-------------|------------------|------------------|-------------|------------------|------------------|-----------|------------------|

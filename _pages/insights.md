@@ -1,13 +1,17 @@
 ---
 layout: single
-title: Insights and Summary
+title: Initial Insights
 toc: true
 toc_label: "Insights and Summary"
 toc_icon: "globe"
 permalink: /insights/
+sidebar:
+  nav:
+    - insights
+    - operational-intelligence
 ---
 
-**The financial services sector is one of the most targeted  industries for cyberattacks. This is an ever-evolving landscape where the threat actors are  always looking for ways to gain access as there is a large financial gain in doing so. At the same time, executives are often hesitant to invest in Cybersecurity. Budgets are often not robust enough for the defences, training and salaries needed.**
+The financial services sector is one of the most targeted  industries for cyberattacks. This is an ever-evolving landscape where the threat actors are  always looking for ways to gain access as there is a large financial gain in doing so. At the same time, executives are often hesitant to invest in Cybersecurity. Budgets are often not robust enough for the defences, training and salaries needed.
 
 ### How to prevent attacks
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Data Collected
+title: Collection Strategies
 permalink: /shodan-data/
 toc: true
 toc_label: "Shodan"

@@ -13,11 +13,15 @@ sidebar:
 ---
 ### Heat Map
 
+This is a generic visualization to represent what a heat map could look like as we were not able to generate enough data for analysis from Shodan.
+
 ![shodan-heat-map](/assets/shodan-heat-map.png)
 
 Source: [link](https://www.techtarget.com/searchbusinessanalytics/definition/heat-map)
 
 ### Data Mining Clustering
+
+These are generic visualizations to represent what cluster diagrams could look like as we were not able to generate enough data for analysis from Shodan.
 
 ![shodan-mining](/assets/shodan-data-mining-clustering.png)
 
@@ -28,6 +32,8 @@ Source: [link](https://link.springer.com/article/10.1007/s10618-023-00979-9/figu
 Source: [link](https://datarundown.com/data-mining-cluster-analysis/)
 
 ### Graph Analysis
+
+This is a generic visualization to represent what a bar graph and network graph could look like as we were not able to generate enough data for analysis from Shodan.
 
 ![shodan-graph](/assets/shodan-graph-analysis.png)
 

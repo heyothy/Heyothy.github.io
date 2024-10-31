@@ -14,6 +14,15 @@ sidebar:
 ![intelligence](/assets/Image-intelligence-buy-in.png)
 Intelligence Buy-In is crucial in cybersecurity, particularly when implementing threat intelligence strategies, because it ensures that all stakeholders—executives, security teams, and employees—are aligned in understanding the value of using intelligence to protect the organization. This buy-in is essential for creating a proactive and effective defense against threats.
 
+### IT and Financial Services
+- Information Technology is central to the financial services industry, it allows companies to:
+    - Efficiently deliver services
+    - Provide enhanced customer experiences 
+    - Ensure regulatory compliance
+- IT systems support core functions like transaction processing, risk management and customer relationship management. 
+- Innovations in digital banking, mobile payments and cybersecurity continue to reshape the industry. 
+- Most financial services are moving more online, which means technology will play a key role in driving operational efficiency, security and innovation, all of which will be more critical.
+
 ### Current threat landscape
 - There is a constant, and increasing, number of attacks occurring, and they will continue to increase. Attacks include:
     - Phishing (74% of account takeover attacks start with this) (3)

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Data Collected
+title: Collection Strategies
 permalink: /phishtank-data/
 toc: true
 toc_label: "Phishtank"

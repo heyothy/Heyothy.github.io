@@ -58,14 +58,17 @@ diamond-models:
 
 intelligence-buy-in:
   - title: "Intelligence buy-in"
-    url: /intelligence-buy-in
+    children:
+      - title: "Intelligence buy-in"
+        url: /intelligence-buy-in
+
 
 phishtank:
   - title: "Phishtank"
     children:
       - title: "About Phishtank"
         url: /phishtank
-      - title: "Data Collected"
+      - title: "Collection Strategies"
         url: /phishtank-data
       - title: "Analytical Approach"
         url: /phishtank-analytics
@@ -77,7 +80,7 @@ shodan:
     children:
       - title: "About Shodan"
         url: /shodan
-      - title: "Data Collected"
+      - title: "Collection Strategies"
         url: /shodan-data
       - title: "Analytical Approach"
         url: /shodan-analytics
@@ -89,12 +92,24 @@ kaggle:
     children:
       - title: "About Kaggle"
         url: /kaggle
-      - title: "Data Collected"
+      - title: "Collection Strategies"
         url: /kaggle-data
       - title: "Analytical Approach"
         url: /kaggle-analytics
       - title: "Visualization Display"
         url: /kaggle-visual
+
+insights:
+  - title: Insights and Summary
+    children:
+      - title: "Initial Insights"
+        url: /insights
+      - title: "Final Insights"
+        url: /final-insights
+  - title: Operational Intelligence
+    url: /operational-intelligence
+  - title: Future Platform Directions
+    url: /insights-ops
 
 
 
